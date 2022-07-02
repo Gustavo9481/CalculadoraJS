@@ -1,6 +1,7 @@
-// Basic Calculator - no User Interface
+// Calculadora básica - sin interfaz | Basic Calculator - no User Interface
 
-// Functions for operations
+ 
+// Funciones para operaciones | Functions for operations
 const sum = (num1,num2) => {
   return parseInt(num1) + parseInt(num2);
 }
